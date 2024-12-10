@@ -19,7 +19,11 @@ preprocessing and model test.ipynb: Jupyter Notebook used for exploratory data a
 ### Data Requirements
 #### The project uses two CSV files: (source: https://www.basketball-reference.com/)
 nba_contract.csv: Contains contract information, including player salaries.
+![image](https://github.com/user-attachments/assets/7cc8a550-5fe2-4026-9f07-ab10b6035498)
+
 player_stat.csv: Includes detailed player statistics and awards.
+![image](https://github.com/user-attachments/assets/807bdb04-4e68-43c2-8e17-32e55ced8197)
+
 
 ### Usage
 #### Requirements
